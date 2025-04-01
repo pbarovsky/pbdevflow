@@ -20,7 +20,7 @@ The theme is designed and optimized for [Nerd Fonts](https://www.nerdfonts.com/)
 ```sh
 git clone https://github.com/pbarovsky/pbdevflow.git
 ```
-2. Put the .zsg-theme file in the ~/.oh-my-zsh/custom/themes folder
+2. Put the .zsg-theme file in the `~/.oh-my-zsh/custom/themes` folder
 
 3. Open the `~/.zshrc` file and change the theme
 ```sh
